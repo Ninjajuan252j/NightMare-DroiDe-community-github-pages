@@ -1,1 +1,0 @@
-# Ninja-community-github-pages
