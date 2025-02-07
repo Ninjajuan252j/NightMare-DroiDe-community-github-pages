@@ -1,0 +1,33 @@
+#menu{
+    background-color: black;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+    padding: 5%;
+    width: 30%;
+    
+}
+body{
+    margin: 10%;
+    color: white;
+    background-color: black;
+    background-image: url("https://yt3.googleusercontent.com/YbgDdrGEgQIk9ydrpuYt0Bjj0Zrf2SYynLne2kXjyzgxlaZhC7j1yFwdHCmOXCtNwKzhrSz_=s160-c-k-c0x00ffffff-no-rj");
+    background-size: cover; 
+    background-position: center; 
+    margin: 10%;
+}
+a{
+    display: block;
+    text-decoration: none;
+    color: white;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+    padding: 5px;
+}
+#drake{
+    float: right;
+}
+ul{
+    list-style: none;
+}
